@@ -10,12 +10,10 @@ All datasets can be downloaded from the openml repository (https://openml.org/).
 >
 >> (https://openml.org/search?type=data&status=active&id=43939)
 >
->> Kin8nm:
->
+> Kin8nm:
 >> (https://openml.org/search?type=data&id=189);
 >
 > Chscase_Census2:
->
 >> (https://openml.org/search?type=data&id=673);
 
 ## :blue_book: Notebook Jupyter:
