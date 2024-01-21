@@ -36,7 +36,7 @@ All datasets can be downloaded from the openml repository (https://openml.org/).
 #### Fabio Littera
 > Matriculation Number: 60/73/65310
 >
->> E-Mail: //Mail
+>> E-Mail: f.littera3@studenti.unica.it
 
 #### Simone Giuffrida
 > Matriculation Number: 60/73/65301
