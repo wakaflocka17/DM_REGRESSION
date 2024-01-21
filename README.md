@@ -17,9 +17,9 @@ All datasets can be downloaded from the openml repository (https://openml.org/).
 >> (https://openml.org/search?type=data&id=673);
 
 ## :blue_book: Project Hierarchy:
-> ReadMe: For all information regarding the project and group members
+> #### ReadMe : For all information regarding the project and group members
 >
-> Project: For all files in the project
+> #### Project : For all files in the project
 >> Jupyter Notebook;
 >
 >> Final Report;
