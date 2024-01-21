@@ -16,8 +16,12 @@ All datasets can be downloaded from the openml repository (https://openml.org/).
 > Chscase_Census2:
 >> (https://openml.org/search?type=data&id=673);
 
-## :blue_book: Notebook Jupyter:
-> //Link
+## :blue_book: Project Hierarchy:
+> ReadMe.md
+> Project
+>> Jupyter Notebook;
+>> Final Report;
+>> Slides;
 
 ## :construction_worker: Team Members:
 
