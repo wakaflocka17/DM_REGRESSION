@@ -41,4 +41,4 @@ All datasets can be downloaded from the openml repository (https://openml.org/).
 #### Simone Giuffrida
 > Matriculation Number: 60/73/65301
 >
->> E-Mail: //Mail
+>> E-Mail: s.giuffrida2@studenti.unica.it
