@@ -18,9 +18,12 @@ All datasets can be downloaded from the openml repository (https://openml.org/).
 
 ## :blue_book: Project Hierarchy:
 > ReadMe.md
+>
 > Project
 >> Jupyter Notebook;
+>
 >> Final Report;
+>
 >> Slides;
 
 ## :construction_worker: Team Members:
