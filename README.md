@@ -16,8 +16,15 @@ All datasets can be downloaded from the openml repository (https://openml.org/).
 > Chscase_Census2:
 >> (https://openml.org/search?type=data&id=673);
 
-## :blue_book: Notebook Jupyter:
-> //Link
+## :blue_book: Project Hierarchy:
+> #### ReadMe : For all information regarding the project and group members
+>
+> #### Project : For all files in the project
+>> Jupyter Notebook;
+>
+>> Final Report;
+>
+>> Slides;
 
 ## :construction_worker: Team Members:
 
@@ -29,9 +36,9 @@ All datasets can be downloaded from the openml repository (https://openml.org/).
 #### Fabio Littera
 > Matriculation Number: 60/73/65310
 >
->> E-Mail: //Mail
+>> E-Mail: f.littera3@studenti.unica.it
 
 #### Simone Giuffrida
 > Matriculation Number: 60/73/65301
 >
->> E-Mail: //Mail
+>> E-Mail: s.giuffrida2@studenti.unica.it
